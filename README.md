@@ -18,9 +18,9 @@ Creating a Pull Request: Create a pull request by clicking the "New pull request
 <br>
 
 **Fork the Repo to your system
-Copy into your code editor
-Edit your code
-Push the code to a new branch on this repo**
+<br> Copy into your code editor
+<br> Edit your code
+<br> Push the code to a new branch on this repo**
 
 <br>
 
