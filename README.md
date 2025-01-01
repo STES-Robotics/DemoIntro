@@ -3,25 +3,23 @@ Made for new members for the code and management/dynamics sections of the team
 
 **This repo is for trials on whether you have the skills to be a part of our team.**
 
-# README File
-This repository contains the steps to fork a repository, create a new branch, and push changes to the new branch.
+# Rules
+This repository also contains the steps to fork a repository 
+<br>
+Create a new branch, and push changes to the new branch.
+<br>
 Forking a Repository: Fork the repository onto your system by clicking the "Fork" button on the repository page.
+<br>
 Creating a New Branch: Create a new branch using the command git branch <new-branch-name>.
+<br>
 Switching to the New Branch: Switch to the new branch using the command git checkout <new-branch-name>.
-Making Changes and Committing: Make changes to the code, stage the changes using git add ., and commit the changes using git commit -m "<commit-message>".
+<br>
+Making Changes and Committing: Make changes to the code, stage the changes using git add ., and commit the changes using git commit -m "commit-message".
+<br>
 Pushing to the New Branch: Push the changes to the new branch using the command git push origin <new-branch-name>.
+<br>
 Creating a Pull Request: Create a pull request by clicking the "New pull request" button on the repository page.
 <br>
-
-# Rules
-
-<br>
-
-**Fork the Repo to your system
-<br> Copy into your code editor
-<br> Edit your code
-<br> Push the code to a new branch on this repo**
-
 <br>
 
 # Forking a Repository and Creating a New Branch
